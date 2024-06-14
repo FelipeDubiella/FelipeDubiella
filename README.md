@@ -1,16 +1,20 @@
-## Hi there 👋
+# 📝 About Me
+**Felipe Dubiella de Oliveira**
 
-<!--
-**FelipeDubiella/FelipeDubiella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 I am learning Kotlin as my first language
 
-Here are some ideas to get you started:
+## ⚡ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Android Development**: Kotlin
+- **Version Control**: Git and GitHub
+
+## 💡 Objective
+
+I am seeking challenges to grow professionally in innovative projects.
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/felipedubiella/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-dubiella-7154411bb/) 
+
+![Snake animation](https://github.com/leehxd/leehxd/blob/output/github-contribution-grid-snake.svg)
